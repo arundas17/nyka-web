@@ -1,0 +1,17 @@
+.nyk-search-nyka input {
+  position: relative;
+  padding: 10px 38px;
+  width: 440px;
+  border: 1px solid rgba(151, 151, 151, 0.1);
+  background: rgba(151, 151, 151, 0.1);
+  border-radius: 4px;
+}
+.nyk-searchicon {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  width: 22px;
+}
+.nyk-searchicon img {
+  width: 100%;
+}

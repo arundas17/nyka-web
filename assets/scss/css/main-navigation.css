@@ -1,0 +1,20 @@
+.nyk-mainnavigation {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.nyk-mainnavigation-logo {
+  width: 110px;
+}
+.nyk-mainnavigation-logo img {
+  width: 100%;
+}
+.nyk-mainnavigation ul {
+  display: flex;
+  justify-content: space-between;
+}
+.nyk-mainnavigation ul li {
+  margin: 0 30px;
+  font-size: medium;
+  font-weight: 600;
+}
